@@ -94,7 +94,7 @@ margin-bottom: 20px;
 
 @media (min-width: 350px)and (max-width: 500px){
 .container_contents{
-   max-width: 290px;
+   max-width: 310px;
    flex-direction: column-reverse;
    margin-top: 0;
    margin-bottom: 20px;
